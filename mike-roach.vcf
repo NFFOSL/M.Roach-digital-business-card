@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Roach;Mike;;;
+FN:Mike Roach
+ORG:National Federation of Fishermen's Organisations
+TITLE:Deputy Chief Executive
+TEL;TYPE=CELL:+447884185444
+TEL;TYPE=WORK,VOICE:+441904635430
+EMAIL;TYPE=WORK:Mike.Roach@nffo.org.uk
+URL:https://www.nffo.org.uk/
+ADR;TYPE=WORK:;;30 Monkgate;York;;YO31 7PF;United Kingdom
+END:VCARD
